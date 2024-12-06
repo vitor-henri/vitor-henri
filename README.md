@@ -30,3 +30,6 @@
 ## Extra 💾
 
 <img align="center" alt="microsoft-office365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<br><br/>
+
+Entusiasta de cibersegurança, sempre buscando aprimorar meus conhecimentos com disciplina e foco para alcançar grandes objetivos.
