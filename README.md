@@ -34,8 +34,9 @@
 </div>
 
 ## Extra 💾
-
-<img align="center" alt="microsoft-office365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-<h4>Microsoft Power BI</h4>
+<div style="display: inline_block;"><br/>
+    <img align="center" alt="microsoft-office365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+    <h4>Microsoft Power BI</h4>
+</div>
 <br><br/>
 Entusiasta de cibersegurança, sempre buscando aprimorar meus conhecimentos com disciplina e foco para alcançar grandes objetivos.
