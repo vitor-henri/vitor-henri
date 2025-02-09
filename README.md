@@ -30,13 +30,12 @@
 
 ## FrameWorks ⚡
 <div style="display: inline_block;"><br/>
-    <img align="center" alt="Flask" src="[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)">
-        <img align="center" alt="kali-linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
 ## Extra 💾
 
 <img align="center" alt="microsoft-office365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<h4>Microsoft Power BI</h4>
 <br><br/>
-<h3>Microsoft Power BI</h3>
 Entusiasta de cibersegurança, sempre buscando aprimorar meus conhecimentos com disciplina e foco para alcançar grandes objetivos.
