@@ -36,6 +36,10 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+## Education 🎓
+
+| **Técnico em Análise e Desenvolvimento de Sistemas** | *SENAI "Henrique Lupo"* | ✅ Concluído |
+
 ## Extra 💾
 <div style="display: inline_block;"><br/>
     <img align="center" alt="microsoft-office365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
