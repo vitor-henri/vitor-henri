@@ -89,7 +89,35 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
 
 ## 🚀 Projetos
 
-Alguns dos projetos que desenvolvi durante minha formação em tecnologia:
+## ♻️ Valorix
+
+> *O projeto que nasceu de um TCC.*
+
+O **Valorix** é uma plataforma desenvolvida como projeto de conclusão de curso no SENAI, criada para conectar cooperativas de reciclagem a compradores de materiais recicláveis.
+
+A plataforma centraliza informações sobre materiais recicláveis disponíveis, facilitando a busca por materiais e a negociação entre compradores e cooperativas.
+
+Além disso, o sistema disponibiliza informações estratégicas para auxiliar as cooperativas na tomada de decisões e contribuir para um processo de reciclagem mais eficiente e sustentável.
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+</p>
+
+### 👨‍💻 Minha contribuição
+
+No desenvolvimento do Valorix, fui responsável pela **área de compradores**, atuando tanto no frontend quanto no backend da aplicação.
+
+* Desenvolvimento das interfaces e funcionalidades destinadas aos compradores;
+* Implementação da lógica de negócio relacionada aos compradores;
+* Desenvolvimento e integração das funcionalidades do frontend com o backend;
+* Modelagem e acesso aos dados utilizando **Prisma**;
+* Desenvolvimento utilizando **TypeScript**;
+* Integração entre as diferentes partes da aplicação.
+
+**Projeto desenvolvido em equipe durante a formação técnica em Análise e Desenvolvimento de Sistemas no SENAI.**
 
 ### 🌐 Desenvolvimento Web
 
