@@ -88,11 +88,9 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
 
 > *O projeto que nasceu de um TCC.*
 
-O **Valorix** é uma plataforma desenvolvida como projeto de conclusão de curso no SENAI, criada para conectar cooperativas de reciclagem a compradores de materiais recicláveis.
-
-A plataforma centraliza informações sobre materiais recicláveis disponíveis, facilitando a busca por materiais e a negociação entre compradores e cooperativas.
-
-Além disso, o sistema disponibiliza informações estratégicas para auxiliar as cooperativas na tomada de decisões e contribuir para um processo de reciclagem mais eficiente e sustentável.
+A Valorix (anteriormente Recoopera) surgiu como projeto de conclusão de curso no SENAI e ganhou vida própria: dois sócios decidiram não deixar a ideia morrer e hoje trabalhamos para levá-la a nível nacional.
+A plataforma centraliza informações de compradores de materiais recicláveis em um único lugar, ajudando cooperativas de reciclagem a fechar melhores negócios com parceiros bem-avaliados. 
+Além disso, disponibiliza dashboards e dados estratégicos para que as cooperativas tomem decisões com mais inteligência, porque sustentabilidade também precisa ser rentável.
 
 ### 🛠️ Tecnologias
 
@@ -112,9 +110,6 @@ No desenvolvimento do Valorix, fui responsável pela **área de compradores**, a
 * Modelagem e acesso aos dados utilizando **Prisma**;
 * Desenvolvimento utilizando **TypeScript**;
 * Integração entre as diferentes partes da aplicação.
-
-**Projeto desenvolvido em equipe durante a formação técnica em Análise e Desenvolvimento de Sistemas no SENAI.**
-
 
 ## 🎓 Formação
 
