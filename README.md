@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ## 🧑‍💻 Sobre mim
 
 🎓 Estudante de **Segurança da Informação na FATEC**
@@ -32,8 +30,6 @@
 Minha base em desenvolvimento de software me permite compreender aplicações, APIs, bancos de dados e diferentes tecnologias utilizadas no desenvolvimento de sistemas. Atualmente, busco aplicar essa base no estudo de segurança da informação e desenvolver projetos práticos na área.
 
 Estou constantemente buscando novos conhecimentos e oportunidades para evoluir profissionalmente em **Tecnologia e Cybersecurity**.
-
----
 
 ## 🔐 Cybersecurity
 
@@ -48,8 +44,6 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
 * 🧪 Laboratórios e ambientes de estudo controlados
 
 > Meu objetivo é transformar conhecimento teórico em prática por meio de laboratórios, projetos e desafios de segurança.
-
----
 
 ## 💻 Tecnologias
 
@@ -90,10 +84,6 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
-
-## 🚀 Projetos
-
 ## ♻️ Valorix
 
 > *O projeto que nasceu de um TCC.*
@@ -125,42 +115,6 @@ No desenvolvimento do Valorix, fui responsável pela **área de compradores**, a
 
 **Projeto desenvolvido em equipe durante a formação técnica em Análise e Desenvolvimento de Sistemas no SENAI.**
 
-### 🌐 Desenvolvimento Web
-
-* **Aplicações Web com Flask e MySQL**
-
-  * Backend desenvolvido em Python utilizando Flask
-  * Integração com banco de dados MySQL
-  * Sistema de autenticação e gerenciamento de usuários
-
-* **Aplicações com React**
-
-  * Desenvolvimento de interfaces utilizando React e JavaScript
-  * Componentização e interação com APIs
-
-* **Projetos Web**
-
-  * HTML, CSS, JavaScript, Bootstrap e Tailwind CSS
-
-### 🤖 IoT
-
-* Projetos utilizando **ESP32/Arduino**
-* Integração entre dispositivos e aplicações web
-* Comunicação com backend desenvolvido em Flask
-
-### 🔐 Cybersecurity
-
-Atualmente estou construindo projetos e laboratórios voltados para:
-
-* Segurança de aplicações web
-* Linux e redes
-* Vulnerabilidades e exploração em ambientes controlados
-* Fundamentos de Pentest
-* CTFs e laboratórios de segurança
-
-> Novos projetos de Cybersecurity serão adicionados conforme avanço nos meus estudos.
-
----
 
 ## 🎓 Formação
 
@@ -169,23 +123,6 @@ Atualmente estou construindo projetos e laboratórios voltados para:
 
 **SENAI "Henrique Lupo" — Técnico em Análise e Desenvolvimento de Sistemas**
 Concluído
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Cybersecurity
-├── Linux
-├── Redes
-├── Segurança Web
-├── HTTP / APIs
-├── OWASP
-├── Segurança Ofensiva
-└── Pentest
-```
-
----
 
 <p align="center">
   <i>"Discipline creates consistency. Consistency creates results."</i>
